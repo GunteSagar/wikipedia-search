@@ -9,18 +9,19 @@ A simple and elegant Wikipedia-powered search app built with **Vanilla JavaScrip
 
 ---
 
-## 📸 Screenshot
-![App Screenshot](./images/screenshot.png)
+## 📸 Screenshots
 
-*(Add your own screenshot of the running project and save it as `images/screenshot.png`)*
+| Home Page | Search Results | Responsive View |
+|------------|----------------|------------------|
+| ![Home](./images/first.JPG) | ![Results](./images/second.JPG) | ![Results](./images/third.JPG) |
 
 ---
 
 ## 💡 Features
-- 🔎 Fetches live data from the Wikipedia API  
+- 🔎 Fetches live data directly from the **Wikipedia API**  
 - 📰 Displays article title, description, and thumbnail image  
 - 🎨 Clean Google-style interface  
-- 📱 Fully responsive design (works on mobile & desktop)  
+- 📱 Fully responsive design (mobile-friendly)  
 - ⚠️ Graceful error handling for empty or failed searches  
 
 ---
